@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "tree-with-non-premitive-data-type",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
